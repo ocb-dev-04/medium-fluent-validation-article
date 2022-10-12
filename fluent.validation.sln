@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluent.validation", "fluent.validation\fluent.validation.csproj", "{147652C3-6E09-4DD7-9600-32204B87EEC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluent.Validation.API", "Fluent.Validation.API\Fluent.Validation.API.csproj", "{95610B83-ADA0-4F9B-B476-D3FE7E05C538}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{147652C3-6E09-4DD7-9600-32204B87EEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{147652C3-6E09-4DD7-9600-32204B87EEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{147652C3-6E09-4DD7-9600-32204B87EEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{147652C3-6E09-4DD7-9600-32204B87EEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95610B83-ADA0-4F9B-B476-D3FE7E05C538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95610B83-ADA0-4F9B-B476-D3FE7E05C538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95610B83-ADA0-4F9B-B476-D3FE7E05C538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95610B83-ADA0-4F9B-B476-D3FE7E05C538}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
