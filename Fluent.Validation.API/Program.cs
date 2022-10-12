@@ -9,9 +9,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddControllers(options =>
-    options.Filters.Add<ValidationFilter>()
-)
+            builder.Services.AddControllers(options =>
+                options.Filters.Add<ValidationFilter>()
+            )
             .ConfigureApiBehaviorOptions(configuration =>
                 configuration.SuppressModelStateInvalidFilter = true
             )
